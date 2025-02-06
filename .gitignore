@@ -28,3 +28,6 @@ db.json
 
 #.env
 .env
+#unnötige tex dateien
+.aux 
+.log
